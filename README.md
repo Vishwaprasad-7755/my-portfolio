@@ -15,7 +15,7 @@ I have extended and customized it with my own features, design changes, and proj
 
 🔗 Original Repository:  https://github.com/raxx21/rajesh-portfolio 
 
-![Portfolio-Preview](public/images/preview.png)
+![Portfolio-Preview](public/images/previe.png)
 
 ## License
 
