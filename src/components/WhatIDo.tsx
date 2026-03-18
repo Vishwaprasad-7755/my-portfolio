@@ -96,8 +96,6 @@ const WhatIDo = () => {
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">JavaScript</div>
                 <div className="what-tags">Material UI</div>
@@ -129,18 +127,18 @@ const WhatIDo = () => {
               <h3>BACKEND</h3>
               <h4>Scalable Server Architecture</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
+                Designing robust APIs. From CMS platforms to
                 complex business logic, I build backends that scale.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
                 <div className="what-tags">Express.js</div>
                 <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">MySQL</div>
                 <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
+                <div className="what-tags">AI/ML</div>
+                <div className="what-tags">AI/DL</div>
                 <div className="what-tags">Python</div>
               </div>
               <div className="what-arrow"></div>
